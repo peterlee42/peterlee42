@@ -1,16 +1,30 @@
-## Hi there 👋
+```bash
+peterlee42@github:~$ whoami
+Peter Lee — CS @ University of Toronto
 
-<!--
-**peterlee42/peterlee42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+peterlee42@github:~$ cat about.txt
+> Software Engineer interested in distributed systems
 
-Here are some ideas to get you started:
+peterlee42@github:~$ ls currently-building/
+context-captioning/  # real-time lecture transcription using user notes for context
+tizcord/             # discord-inspired terminal chat platform in C with an event loop, channels, and a custom wire protocol
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+peterlee42@github:~$ cat experience.txt
+> Software Developer Intern @ Crane Supply
+> Incoming SDE Intern @ Amazon
+
+peterlee42@github:~$ ls skills/
+C  C++  Python  Java  JavaScript  SQL
+Linux  Git  Docker  TCP/IP  WebSockets  AWS
+
+peterlee42@github:~$ cat learning.txt
+> Operating systems
+> Computer networks
+> Distributed systems
+
+peterlee42@github:~$ cat contact.txt
+GitHub   : github.com/peterlee42
+Website  : psjlee.dev
+Email    : psjlee42@gmail.com
+
+peterlee42@github:~$ █

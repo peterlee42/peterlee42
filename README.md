@@ -11,7 +11,7 @@ tizcord/             # discord-inspired terminal chat platform in C with an even
 
 peterlee42@github:~$ cat experience.txt
 > Software Developer Intern @ Crane Supply
-> Incoming SDE Intern @ Amazon
+> Software Development Engineer Intern @ Amazon
 
 peterlee42@github:~$ ls skills/
 C  C++  Python  Java  JavaScript  SQL
